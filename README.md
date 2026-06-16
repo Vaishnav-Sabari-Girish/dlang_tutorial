@@ -9,3 +9,4 @@ D usually uses the `dub` package manager. But I'll using `dub` in the shebang in
 ## Programs 
 
 1. [Hello World](./hello_world/hello_world.d)
+2. [Fundamental Types](./fundamental_types/fundamental_types.d)

@@ -4,6 +4,13 @@
 programs in D, here is the code
 
 ```d
+#!/usr/bin/env dub
+
+/+ dub.sdl:
+      name "hello_world"
+      description "Printing Hello, World! in D"
+ +/
+
 import std.stdio: writeln;
 
 void main() {

@@ -1,16 +1,10 @@
-# D Tutorial 
+# D Language Tutorial 
 
-This repository tracks my progress of learning the 
-[D Programming Language](https://wiki.dlang.org/The_D_Programming_Language). 
-
-
-D usually uses the `dub` package manager. But I'll using `dub` in the shebang in each program so that unnecessary files are not added. 
+This repo tracks my progress in learning the 
+[D programming Language](https://dlang.org/) by 
+solving all the problems in the book 
+[Programming in D](https://ddili.org/ders/d.en/index.html) 
 
 ## Programs 
 
-1. [Hello World](./hello_world/hello_world.d)
-2. [Fundamental Types](./fundamental_types/fundamental_types.d)
-3. [Variables](./variables/variables.d)
-4. [User Input](./user_input/user_input.d)
-5. [Logical Expressions](./logical_expressions/logical_expressions.d)
-6. [If Statement](./if_statement/if_statement.d)
+1. [Hello World](./hello_world/hello_world.md)

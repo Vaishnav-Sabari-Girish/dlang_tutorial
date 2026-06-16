@@ -8,3 +8,4 @@ solving all the problems in the book
 ## Programs 
 
 1. [Hello World](./hello_world/hello_world.md)
+2. [`write` and `writeln`](./write_writeln/write_writeln.md)

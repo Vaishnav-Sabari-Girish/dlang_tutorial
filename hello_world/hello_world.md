@@ -27,6 +27,4 @@ The exercise problem given in the book is
 3. Try to compile the program after making other changes; e.g. remove the semicolon at the end of the line with writeln and observe a compilation error. 
 
 
-The solution is in this file 
-
-[solution](./hello_world.d)
+Solution file: [hello_world.d](./hello_world.d) 

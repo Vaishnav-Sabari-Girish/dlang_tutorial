@@ -13,3 +13,4 @@ D usually uses the `dub` package manager. But I'll using `dub` in the shebang in
 3. [Variables](./variables/variables.d)
 4. [User Input](./user_input/user_input.d)
 5. [Logical Expressions](./logical_expressions/logical_expressions.d)
+6. [If Statement](./if_statement/if_statement.d)

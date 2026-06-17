@@ -11,3 +11,4 @@ solving all the problems in the book
 2. [`write` and `writeln`](./write_writeln/write_writeln.md)
 3. [Fundamental Types](./fundamental_types/fundamental_types.md)
 4. [Assignment operations and order of evaluation](./assignment_evaluation/assignment_evaluation.md)
+5. [Variables](./variables/variables.md)

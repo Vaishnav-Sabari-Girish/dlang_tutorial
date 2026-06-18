@@ -13,3 +13,4 @@ solving all the problems in the book
 4. [Assignment operations and order of evaluation](./assignment_evaluation/assignment_evaluation.md)
 5. [Variables](./variables/variables.md)
 6. [Standard Input Output](./std_io/std_io.md)
+7. [Read from standard Input](./read_stdin/read_stdin.md)
